@@ -3,5 +3,5 @@
 ## Objectivo
 Preparar diferentes inputs para poder trabajar en conjunto.
 
-### Resumen
+### Summary
 Agregaremos con contenido para probar diferentes herramientas
